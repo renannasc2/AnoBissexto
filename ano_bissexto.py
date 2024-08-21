@@ -9,4 +9,4 @@ ano_verificar = int(input("Qual ano deseja saber se é bissexto?\n"))
 if fn_bissexto(ano_verificar):
     print(f"{ano_verificar} é bissexto")
 else:
-    print("Poxaaa que triste! =(\n" + f"{ano_verificar} não é um ano bissexto")
+    print("Poxaaaa que triste! =(\n" + f"{ano_verificar} não é um ano bissexto")
